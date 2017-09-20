@@ -1,2 +1,2 @@
 # MalluHub
-Website designed to learn malayalam alphabets
+Web app to learn malayalam using nodejs
